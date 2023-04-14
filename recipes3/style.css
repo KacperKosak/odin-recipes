@@ -1,0 +1,14 @@
+body{
+    margin: 2rem;
+}
+.firstsection img{
+    width: 400px;
+}
+
+.firstsection {
+    display: flex;
+    flex-wrap: wrap;
+}
+.firstsection {
+    flex-wrap: nowrap;
+}
