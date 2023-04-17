@@ -9,6 +9,3 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
-.firstsection {
-    flex-wrap: nowrap;
-}
